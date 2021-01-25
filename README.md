@@ -1,4 +1,4 @@
-<h1><b><i>Лабораторные и задания  ФПМИ БГУ</i></b></h1>
+<h1><b><i>Лабораторные и задания  <a href= fpmi.bsu.by>ФПМИ</a> <a href= bsu.by>>БГУ</a></i></b></h1>
 
 <ul>
   <li><i><a href= https://github.com/charapennikaurm/BSU/tree/main/%D0%92%D0%9A%D0%98%D0%90%D0%94>ВКИАД</a></i></li>
