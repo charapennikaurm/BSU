@@ -1,0 +1,5 @@
+240 Kiev 8.20 9.05 40 UNDEF
+343 Madrid 15.00 17.10 32 UNDEF
+247 Moscow 12.00 12.40 20 UNDEF
+30 Moscow 10.00 10.55 10 Etihad Airways
+360 Simferopol 7.00 8.45 35 UNDEF
