@@ -35,3 +35,14 @@
 + [Экономика](https://github.com/charapennikaurm/BSU/tree/main/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0)
 
 </details>
+
+---
+
+<details>
+<summary> Полезные ссылки </summary>
+
++ [Конспекты](https://drive.google.com/drive/folders/18u_EDtzdWjAJeyYDqqlODsVZWLKNiOi8?usp=sharing)
++ [Книги](https://drive.google.com/drive/folders/1SqUew_2dXwXtVO1cN0sC7Aq_g_vv7pkH?usp=sharing)
++ [Контрольные и коллоквиумы](https://drive.google.com/drive/folders/1ZYnvDi3jHEKucqEvjj4GJz4yJVWlUidP?usp=sharing)
+
+</details>
