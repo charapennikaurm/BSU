@@ -1,0 +1,35 @@
+ноя 26, 2020 12:43:19 AM main.java.com.bsu.Main main
+FINE: Programm Started
+
+ноя 26, 2020 12:43:19 AM main.java.com.bsu.Main processRequest
+FINE: SQL Request: select * from company_table where activity_type = "software development"
+		Number of results: 2
+ноя 26, 2020 12:43:19 AM main.java.com.bsu.Main processRequest
+FINE: SQL Request: select * from company_table where employee_number between 70000 and 150000
+		Number of results: 2
+ноя 26, 2020 12:43:19 AM main.java.com.bsu.Main main
+FINE: Errorjava.lang.IllegalArgumentException: Unknown command: Unknown command
+ноя 26, 2020 12:45:19 AM main.java.com.bsu.Main main
+FINE: Programm Started
+
+ноя 26, 2020 12:45:19 AM main.java.com.bsu.Main processRequest
+FINE: SQL Request: select * from company_table where activity_type = "software development"
+		Number of results: 2
+ноя 26, 2020 12:45:19 AM main.java.com.bsu.Main processRequest
+FINE: SQL Request: select * from company_table where employee_number between 70000 and 150000
+		Number of results: 2
+ноя 26, 2020 12:45:19 AM main.java.com.bsu.Main processRequest
+FINE: SQL Request: select * from company_table where short_name = "bsu"
+		Number of results: 1
+ноя 26, 2020 12:45:48 AM main.java.com.bsu.Main main
+FINE: Programm Started
+
+ноя 26, 2020 12:45:48 AM main.java.com.bsu.Main processRequest
+FINE: SQL Request: select * from company_table where activity_type = "software development"
+		Number of results: 2
+ноя 26, 2020 12:45:48 AM main.java.com.bsu.Main processRequest
+FINE: SQL Request: select * from company_table where employee_number between 70000 and 140000
+		Number of results: 1
+ноя 26, 2020 12:45:48 AM main.java.com.bsu.Main processRequest
+FINE: SQL Request: select * from company_table where short_name = "bsu"
+		Number of results: 1

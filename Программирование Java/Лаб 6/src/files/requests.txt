@@ -1,0 +1,3 @@
+SELECT * FROM company_table WHERE activity_type = "software development"
+SELECT * FROM company_table WHERE employee_number BETWEEN 70000 AND 140000
+SELECT * FROM company_table WHERE short_name = "BSU"

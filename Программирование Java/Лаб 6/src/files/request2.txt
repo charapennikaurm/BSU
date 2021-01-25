@@ -1,0 +1,1 @@
+Apple Inc.;Apple;2020-11-24;California,USA;1976-04-01;137000;Ernst & Young LLP;12345678;apple@icloud.com;IT;software development;apple.com
