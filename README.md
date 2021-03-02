@@ -1,7 +1,7 @@
 # BSU
 ![languages](https://img.shields.io/github/languages/count/charapennikaurm/BSU)
 ![repo-size](https://img.shields.io/github/repo-size/charapennikaurm/BSU)
-## Лабортаторные и задания [ФПМИ](http://fpmi.bsu.by/) [БГУ](https://bsu.by/)
+## Лабортаторные [ФПМИ](http://fpmi.bsu.by/) [БГУ](https://bsu.by/)
 
 ---
 
