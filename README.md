@@ -54,7 +54,6 @@
 <summary> Полезные ссылки </summary>
 
 + [Конспекты](https://drive.google.com/drive/folders/18u_EDtzdWjAJeyYDqqlODsVZWLKNiOi8?usp=sharing)
-+ [Книги](https://drive.google.com/drive/folders/1SqUew_2dXwXtVO1cN0sC7Aq_g_vv7pkH?usp=sharing)
 + [Контрольные и коллоквиумы](https://drive.google.com/drive/folders/1ZYnvDi3jHEKucqEvjj4GJz4yJVWlUidP?usp=sharing)
 
 </details>
