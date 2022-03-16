@@ -64,7 +64,7 @@
 <details>
 <summary> VI семестр</summary>
 
-+ [Математические и компьютерные основы защиты информации] (https://github.com/charapennikaurm/BSU/tree/main/%D0%9C%D0%B8%D0%9A%D0%9E%D0%97%D0%98)
++ [Математические и компьютерные основы защиты информации](https://github.com/charapennikaurm/BSU/tree/main/%D0%9C%D0%B8%D0%9A%D0%9E%D0%97%D0%98)
   
 </details>
 
