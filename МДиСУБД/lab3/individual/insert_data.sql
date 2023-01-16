@@ -1,0 +1,58 @@
+---- CLIENTS
+-- insert into service_center.public.clients(client_name) values ('Иван Иванов');
+-- insert into service_center.public.clients(client_name) values ('Петр Петров');
+-- insert into service_center.public.clients(client_name) values ('Сергей Сергеев');
+--
+---- MANUFACTURERS
+-- insert into service_center.public.manufacturers(manufacturer_name) values ('Apple');
+-- insert into service_center.public.manufacturers(manufacturer_name) values ('Samsung');
+-- insert into service_center.public.manufacturers(manufacturer_name) values ('Huawei');
+--
+---- PRODUCTS
+-- insert into service_center.public.products(product_name, id_manufacturer) values ('Iphone 8', 1);
+-- insert into service_center.public.products(product_name, id_manufacturer) values ('MacBook Air', 1);
+-- insert into service_center.public.products(product_name, id_manufacturer) values ('Galaxy S32 ', 2);
+-- insert into service_center.public.products(product_name, id_manufacturer) values ('Galaxy M32', 2);
+-- insert into service_center.public.products(product_name, id_manufacturer) values ('Mate Xs', 3);
+-- insert into service_center.public.products(product_name, id_manufacturer) values ('Mate 40 Pro', 3);
+--
+---- EQUIPMENTS
+-- insert into service_center.public.equipments(equipment_name) values ('Экран Iphone 8');
+-- insert into service_center.public.equipments(equipment_name) values ('Экран Galaxy S32');
+--
+---- WORKERS
+-- insert into service_center.public.workers(qualification, worker_name) values ('1 разряд', 'Cтепанов Степан');
+-- insert into service_center.public.workers(qualification, worker_name) values ('2 разряд', 'Алексеев Алексей');
+-- insert into service_center.public.workers(qualification, worker_name) values ('3 разряд', 'Таранчук Валерий');
+-- insert into service_center.public.workers(qualification, worker_name) values ('1 разряд', 'Леваков Анатолий');
+-- insert into service_center.public.workers(qualification, worker_name) values ('3 разряд', 'Присакару Илья');
+--
+---- WORK_TYPES
+-- insert into service_center.public.work_types(worktype_name, id_worker) values ('Замена аккумулятора', 1);
+-- insert into service_center.public.work_types(worktype_name, id_worker) values ('Замена экрана', 1);
+-- insert into service_center.public.work_types(worktype_name, id_worker) values ('Обновление ПО', 2);
+-- insert into service_center.public.work_types(worktype_name, id_worker) values ('Прошивка устройства', 2);
+-- insert into service_center.public.work_types(worktype_name, id_worker) values ('Замена динамиков', 3);
+-- insert into service_center.public.work_types(worktype_name, id_worker) values ('Профилактическое обслуживание', 3);
+-- insert into service_center.public.work_types(worktype_name, id_worker) values ('Проверка состояния', 4);
+-- insert into service_center.public.work_types(worktype_name, id_worker) values ('Ремонт ноутбуков', 5);
+--
+---- ORDER_TYPE
+-- insert into service_center.public.order_types(id, ordertype_name) values (1, 'Диагностика');
+-- insert into service_center.public.order_types(id, ordertype_name) values (2, 'Ремонт');
+-- insert into service_center.public.order_types(id, ordertype_name) values (3, 'Проверка');
+-- insert into service_center.public.order_types(id, ordertype_name) values (4, 'Обсулживание');
+--
+----ORDERS
+-- insert into service_center.public.orders(price, location, id_product, id_client, stage, id_worktype, is_guarantee) values (300, 'Минск', 1, 1, 'принята', 4, TRUE);
+-- insert into service_center.public.orders(price, location, id_product, id_client, stage, id_worktype, is_guarantee) values (400, 'Минск', 2, 1, 'принята', 5, TRUE);
+-- insert into service_center.public.orders(price, location, id_product, id_client, stage, id_worktype, is_guarantee) values (87, 'Минск', 3, 2, 'проверка', 4, TRUE);
+-- insert into service_center.public.orders(price, location, id_product, id_client, stage, id_worktype, is_guarantee) values (40, 'Минск', 4, 2, 'принята', 8, TRUE);
+-- insert into service_center.public.orders(price, location, id_product, id_client, stage, id_worktype, is_guarantee) values (900, 'Минск', 5, 3, 'принята', 8, TRUE);
+-- insert into service_center.public.orders(price, location, id_product, id_client, stage, id_worktype, is_guarantee) values (777, 'Минск', 6, 3, 'принята', 9, TRUE);
+--
+---- EQUIPMENTS_ORDERS
+--insert into service_center.public.equipments_orders(id_equipment, id_order) values (1, 3);
+--insert into service_center.public.equipments_orders(id_equipment, id_order) values (2, 5);
+
+
